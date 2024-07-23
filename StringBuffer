@@ -1,0 +1,1 @@
+Yes, a StringBuffer object in Java is mutable, meaning you can change its contents after it's created. You can add, remove, or change characters in a StringBuffer without creating a new object
